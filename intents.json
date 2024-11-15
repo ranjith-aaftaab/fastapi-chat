@@ -1,0 +1,85 @@
+{
+    "intents": [
+      {
+        "tag": "admissions",
+        "patterns": [
+          "How can I apply for admission?",
+          "What is the admission process?",
+          "How do I enroll my child?",
+          "Tell me about the admission requirements",
+          "What is the age limit for admissions?"
+        ],
+        "responses": [
+          "To apply for admission, please fill out the application form available on our website or visit the school office during working hours.",
+          "Our admissions team will guide you through the process. For further details, please contact the school administration."
+        ]
+      },
+      {
+        "tag": "fee_structure",
+        "patterns": [
+          "What is the fee structure?",
+          "How much are the school fees?",
+          "Can you provide details on tuition fees?",
+          "Is there a breakdown of fees?",
+          "What are the payment options for fees?"
+        ],
+        "responses": [
+          "Our fee structure varies by grade level. For detailed information, please visit our website or contact the school office.",
+          "The fee structure is available upon request. You can also inquire about any available payment plans."
+        ]
+      },
+      {
+        "tag": "school_timings",
+        "patterns": [
+          "What are the school timings?",
+          "When does school start and end?",
+          "What time does the school open?",
+          "Can you tell me the school hours?"
+        ],
+        "responses": [
+          "The school operates from 8:00 AM to 3:00 PM, Monday through Friday.",
+          "Our school timings are 8:00 AM to 3:00 PM. Extra-curricular activities may be scheduled after regular school hours."
+        ]
+      },
+      {
+        "tag": "curriculum",
+        "patterns": [
+          "What curriculum do you follow?",
+          "Tell me about the syllabus",
+          "Do you offer CBSE or ICSE?",
+          "What are the subjects offered in each grade?"
+        ],
+        "responses": [
+          "We follow the CBSE curriculum, which provides a well-rounded education to prepare students for various fields.",
+          "Our school follows the CBSE curriculum with a focus on core subjects as well as extra-curricular activities."
+        ]
+      },
+      {
+        "tag": "transport",
+        "patterns": [
+          "Is there school bus service?",
+          "Tell me about transportation options",
+          "Do you provide transport facilities?",
+          "Can my child take the school bus?"
+        ],
+        "responses": [
+          "Yes, we offer school bus services covering most areas nearby. For routes and availability, please contact the school office.",
+          "Our transport facility is available for an additional fee. Please reach out to the administration for more details."
+        ]
+      },
+      {
+        "tag": "contact",
+        "patterns": [
+          "How can I contact the school?",
+          "What is your contact information?",
+          "How do I reach the administration?",
+          "Please give me the school's phone number"
+        ],
+        "responses": [
+          "You can contact us at +91-XXXXXXXXXX or email us at info@schoolname.com.",
+          "Feel free to call our administration office at +91-XXXXXXXXXX during working hours."
+        ]
+      }
+    ]
+  }
+  
